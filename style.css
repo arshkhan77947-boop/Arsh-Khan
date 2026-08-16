@@ -107,7 +107,45 @@ nav a:hover {
     color: white;
 }
 .footer {
-    background-color: #222;
+    background-color: #123B5D;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+}
+
+.footer-content {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.footer h2 {
+    margin-bottom: 10px;
+}
+
+.footer p {
+    line-height: 1.6;
+}
+
+.footer-links {
+    margin: 20px 0;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.copyright {
+    font-size: 14px;
+    margin-top: 20px;
+}.footer {
+    background-color: #123B5D;
     color: white;
     text-align: center;
     padding: 30px 20px;
