@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #f2f2f2;
+    color: #333333;
+}
+
+.top-bar {
+    background-color: #f4a261;
+    color: #333333;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+header {
+    background-color: #e5e5e5;
+    text-align: center;
+    padding: 25px 10px;
+}
+
+header h1 {
+    margin: 0;
+    color: #315a7d;
+    font-size: 32px;
+}
+
+header p {
+    margin: 8px 0 0;
+    color: #555555;
+    font-size: 17px;
+}
+
+nav {
+    background-color: #315a7d;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #f4a261;
+}
+
+.welcome {
+    max-width: 1000px;
+    margin: 25px auto;
+    background-color: white;
+    text-align: center;
+    padding: 35px 20px;
+    border-radius: 8px;
+    border-top: 5px solid #f4a261;
+}
+
+.welcome h2 {
+    color: #315a7d;
+    margin-top: 0;
+}
+
+.welcome p {
+    color: #555555;
+    font-size: 17px;
+}
+
+.books {
+    max-width: 1000px;
+    margin: 25px auto;
+    background-color: #e8f1e8;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 8px;
+    border-top: 5px solid #5b8c5a;
+}
+
+.books h2 {
+    color: #315a7d;
+    margin-top: 0;
+}
+
+.books p {
+    color: #555555;
+    font-size: 17px;
+}
+.semesters {
+    margin-top: 25px;
+}
+
+.semesters a {
+    display: inline-block;
+    background-color: white;
+    color: #315a7d;
+    padding: 12px 20px;
+    margin: 8px;
+    text-decoration: none;
+    border: 1px solid #315a7d;
+    border-radius: 6px;
+}
+
+.semesters a:hover {
+    background-color: #315a7d;
+    color: white;
+}
