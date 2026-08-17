@@ -68,25 +68,15 @@ nav a:hover {
     font-size: 17px;
 }
 
-.books {
-    max-width: 1000px;
-    margin: 25px auto;
-    background-color: #e8f1e8;
-    text-align: center;
-    padding: 30px 20px;
-    border-radius: 8px;
-    border-top: 5px solid #5b8c5a;
-}
 
-.books h2 {
-    color: #315a7d;
-    margin-top: 0;
-}
 
-.books p {
-    color: #555555;
-    font-size: 17px;
-}
+
+
+
+
+
+
+
 
 .footer {
     background-color: #123B5D;
