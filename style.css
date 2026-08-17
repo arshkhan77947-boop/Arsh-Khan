@@ -69,15 +69,6 @@ nav a:hover {
 }
 
 
-
-
-
-
-
-
-
-
-
 .footer {
     background-color: #123B5D;
     color: white;
@@ -116,4 +107,22 @@ nav a:hover {
 .copyright {
     font-size: 14px;
     margin-top: 20px;
+}
+
+
+.aicte-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #1f5f8b;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.aicte-button:hover {
+    background: #17496d;
+    transform: translateY(-2px);
 }
