@@ -87,25 +87,7 @@ nav a:hover {
     color: #555555;
     font-size: 17px;
 }
-.semesters {
-    margin-top: 25px;
-}
 
-.semesters a {
-    display: inline-block;
-    background-color: white;
-    color: #315a7d;
-    padding: 12px 20px;
-    margin: 8px;
-    text-decoration: none;
-    border: 1px solid #315a7d;
-    border-radius: 6px;
-}
-
-.semesters a:hover {
-    background-color: #315a7d;
-    color: white;
-}
 .footer {
     background-color: #123B5D;
     color: white;
