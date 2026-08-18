@@ -49,7 +49,7 @@ nav a:hover {
 }
 
 .welcome {
-    max-width: 850px;
+    max-width: 1000px;
     margin: 25px auto;
     background-color: white;
     text-align: center;
@@ -71,7 +71,7 @@ nav a:hover {
 }
 
 .resources-section {
-    max-width: 850px;
+    max-width: 1000px;
     margin: 25px auto;
     background-color: #e8f2e8;
     border-top: 5px solid #5b8f5b;
