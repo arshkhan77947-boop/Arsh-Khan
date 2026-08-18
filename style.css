@@ -51,7 +51,7 @@ nav a:hover {
 .welcome {
     max-width: 1000px;
     margin: 25px auto;
-    background-color: white;
+    background-color: #f4f8fb;
     text-align: center;
     padding: 35px 20px;
     border-radius: 8px;
@@ -150,7 +150,8 @@ nav a:hover {
     max-width: 1000px;
     margin: 35px auto;
     padding: 35px 20px;
-    text-align: center;
+    text-align: left;
+    box-sizing: border-box;
 }
 
 .features h2 {
