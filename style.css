@@ -142,3 +142,19 @@ nav a:hover {
 .aicte-button:hover {
     background: #17496d;
 }
+
+
+
+
+.book-link {
+    display: inline-block;
+    background-color: steelblue;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.book-link:hover {
+    background-color: orange;
+}
