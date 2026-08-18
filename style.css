@@ -56,6 +56,7 @@ nav a:hover {
     padding: 35px 20px;
     border-radius: 8px;
     border-top: 5px solid #f4a261;
+    box-sizing: border-box;
 }
 
 .welcome h2 {
@@ -68,9 +69,44 @@ nav a:hover {
     font-size: 17px;
 }
 
+.resources-section {
+    max-width: 850px;
+    margin: 25px auto;
+    background-color: #e8f2e8;
+    border-top: 5px solid #5b8f5b;
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.resources-section h2 {
+    color: #2d5f85;
+    margin-top: 0;
+}
+
+.resources-section p {
+    color: #444444;
+    margin-bottom: 20px;
+}
+
+.book-link {
+    display: inline-block;
+    background-color: #2d5f85;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.book-link:hover {
+    background-color: #f4a261;
+    color: #333333;
+}
 
 .footer {
-    background-color: #123B5D;
+    background-color: #123b5d;
     color: white;
     text-align: center;
     padding: 30px 20px;
@@ -101,60 +137,10 @@ nav a:hover {
 }
 
 .footer-links a:hover {
-    text-decoration: underline;
+    color: #f4a261;
 }
 
 .copyright {
     font-size: 14px;
     margin-top: 20px;
-}
-
-.resources-section {
-    background: #e8f2e8;
-    border-top: 4px solid #5b8f5b;
-    border-radius: 8px;
-    padding: 30px;
-    margin: 25px auto;
-    max-width: 850px;
-    text-align: center;
-}
-
-.resources-section h2 {
-    color: #2d5f85;
-    margin-bottom: 12px;
-}
-
-.resources-section p {
-    color: #444;
-    margin-bottom: 20px;
-}
-
-.aicte-button {
-    display: inline-block;
-    padding: 12px 24px;
-    background: #2d5f85;
-    color: white;
-    text-decoration: none;
-    border-radius: 8px;
-    font-weight: bold;
-}
-
-.aicte-button:hover {
-    background: #17496d;
-}
-
-
-
-
-.book-link {
-    display: inline-block;
-    background-color: steelblue;
-    color: white;
-    padding: 12px 20px;
-    text-decoration: none;
-    border-radius: 6px;
-}
-
-.book-link:hover {
-    background-color: orange;
 }
